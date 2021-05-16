@@ -19,6 +19,4 @@ Execute Test:
       2. Click 'm' icon ('Execute Maven Goal')
       3. Select 'mvn clean'
       4. Repeat step 1 to 2 and select 'mvn verify'
-4. Test report will be generated under '/target/site/serenity/index.html' and '/target/jbehave/view/index.html'
-    4.1 Right click index.html
-    4.2 Open In > Browser > Select your expected browser (ex. 'Chrome')
+4. Test report will be generated under '/target/site/serenity/index.html' and '/target/jbehave/view/index.html'. Right click index.html. Open In > Browser > Select your expected browser (ex. 'Chrome')
